@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Что бы мне слепить</string>
+    <string name="newResult"> получить новый результат </string>
+    <string name="row1">Техника формообразования</string>
+    <string name="row2">Техника декорирования</string>
+    <string name="row3">Предмет</string>
+    <string name="row4">Тема</string>
+    <string name="empty">This long string as long as i need just because my code is so bad</string>
+
+</resources>
